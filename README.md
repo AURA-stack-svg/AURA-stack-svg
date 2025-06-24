@@ -55,9 +55,8 @@ I love building **AI-powered applications**, experimenting with algorithms, and 
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/shivambharat)  
-- [GitHub](https://github.com/shivam-bharat)  
-- [Twitter](https://twitter.com/shivam_bharat)  
+- [LinkedIn](https://www.linkedin.com/in/shivam-kharat-4a133b2a1/)  
+- [GitHub](https://github.com/AURA-stack-svg/AURA-stack-svg)  
 
 Feel free to reach out to me for collaborations, learning opportunities, or just a friendly chat about AI/ML and technology. 😊
 
