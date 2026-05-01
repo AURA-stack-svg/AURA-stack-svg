@@ -4,65 +4,50 @@
   <p><i>Building scalable, end-to-end software — AI-powered web apps, mobile platforms, and real-time dashboards.</i></p>
 
   <p>
-    <a href="https://linkedin.com/in/shivam-kharat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:shivamkharat2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/shivamkharat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/shivam-kharat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:shivamkharat2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/shivamkharat"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 🚀 About Me
-I'm a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** with a passion for the fascinating world of **Artificial Intelligence** and **Computer Vision**. I thrive on pushing the boundaries of what's possible with code—whether it's building a real-time attendance system with facial recognition or a blockchain-secured voting platform.
+### 🚀
+I'm a Computer Science student at **Amrita Vishwa Vidyapeetham** specializing in **Artificial Intelligence** and **Computer Vision**. I build systems that learn, from real-time facial recognition to blockchain-secured voting platforms.
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering (2023 — 2027)
-- 🏢 **Recent Internship**: ML & Mobile App Developer at Excellentminds Software Technologies.
-- ⚡ **Current Focus**: Deepening expertise in Deep Learning, Reinforcement Learning, and Cloud DevOps.
-- 🌱 **Open to**: Internships and collaborative AI projects.
+- 🏢 **Recent Internship**: ML & Mobile App Developer @ Excellentminds.
+- ⚡ **Current Focus**: Deep Learning, Reinforcement Learning, and Cloud DevOps.
 
 ---
 
-### 🛠️ Technical Arsenal
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, C++, Java, AL |
-| **AI / ML** | PyTorch, TensorFlow, Scikit-learn, Computer Vision, Deep Learning, RL |
-| **Frameworks** | React.js, Node.js, FastAPI, Flutter, React Native, Next.js |
-| **Data / Cloud** | MongoDB, PostgreSQL, SQLite, REST APIs, MS Dynamics 365, AWS, Docker |
-| **Tools** | Git, GitHub, VS Code, Linux, Postman |
-
----
-
-### 🏆 Featured Projects
-
-#### 👤 [Face Recognition AI](https://github.com/AURA-stack-svg/Face_Recognition_AI)
-An incremental face recognition system using **InsightFace (ArcFace)** and **SQLite**. Features real-time identity learning and detection.
-
-#### 🗳️ [Secure Voting System](https://github.com/AURA-stack-svg/Secure_Voting_System)
-A standalone, blockchain-based electronic voting system designed for security and transparency. 
-
-#### 👗 [SootiAI](https://github.com/AURA-stack-svg/Sooti_AI_Store)
-AI-powered clothing platform with smart product categorization, personalized recommendations, and an advanced admin analytics panel.
-
-#### 🔎 [Perplexed AI Search](https://github.com/AURA-stack-svg/Perplexed_AI_Search)
-A sophisticated search engine inspired by Perplexity, utilizing LLMs and web search for intelligent query answering.
+### 🛠️
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 💼 Experience Highlights
-
-- **ML & Mobile App Intern** @ *Excellentminds Software Technologies* (2025)
-  - Shipped a cross-platform attendance app with real-time face recognition.
-  - Integrated TensorFlow models for smart search and personalized recommendations.
-
-- **Full-Stack & AL Developer Intern** @ *VNK Software Solutions* (2024)
-  - Developed ERP extensions for Microsoft Dynamics 365 Business Central.
-  - Built and shipped the company's official website from scratch.
+### 🏆
+- 👤 **[Face Recognition AI](https://github.com/AURA-stack-svg/Face_Recognition_AI)**: Incremental learning system using ArcFace & SQLite.
+- 🗳️ **[Secure Voting System](https://github.com/AURA-stack-svg/Secure_Voting_System)**: Standalone blockchain platform for secure digital democracy.
+- 👗 **[SootiAI](https://github.com/AURA-stack-svg/Sooti_AI_Store)**: AI-driven e-commerce with smart categorization & recommendations.
+- 🔎 **[Perplexed AI Search](https://github.com/AURA-stack-svg/Perplexed_AI_Search)**: Sophisticated search engine using LLMs and web scraping.
 
 ---
 
-### 📊 GitHub Activity
+### 📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AURA-stack-svg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
@@ -72,5 +57,5 @@ A sophisticated search engine inspired by Perplexity, utilizing LLMs and web sea
 ---
 
 <div align="center">
-  <i>"Technology is best when it brings people together."</i> — <b>Matt Mullenweg</b>
+  <i>"Technology is best when it brings people together."</i>
 </div>
