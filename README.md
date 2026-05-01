@@ -1,9 +1,9 @@
 <div align="center">
   <h1>👋 Hi, I'm Shivam Kharat!</h1>
-  <p>Full Stack Developer | AI & Machine Learning Enthusiast</p>
+  <p>Software Developer | AI & Machine Learning Enthusiast</p>
   
   <a href="https://www.linkedin.com/in/shivam-kharat-4a133b2a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shivamkharat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AURA-stack-svg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
@@ -73,11 +73,11 @@ I love building AI-powered applications, experimenting with algorithms, and crea
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamkharat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkharat&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AURA-stack-svg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AURA-stack-svg&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkharat&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AURA-stack-svg&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
