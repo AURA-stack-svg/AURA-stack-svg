@@ -1,60 +1,76 @@
 <div align="center">
-  <h1>Shivam Kharat</h1>
-  <p>Full Stack Developer | AI & Computer Vision Enthusiast</p>
+  <h1>👋 Hi, I'm Shivam Kharat!</h1>
+  <p>Full Stack Developer | AI & Machine Learning Enthusiast</p>
+  
+  <a href="https://www.linkedin.com/in/shivam-kharat-4a133b2a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shivamkharat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-### About Me
-Hi, I'm Shivam Kharat, a Computer Science student at Amrita Vishwa Vidyapeetham building scalable web applications and AI-driven systems. I work across the stack with a strong focus on computer vision and intelligent automation, aiming to create clean user experiences backed by reliable and efficient architectures.
+---
 
-**Interests:**
-- Full Stack Development
-- Computer Vision & Deep Learning
-- System Design & Scalable Architectures
-- Applied AI in Software Systems
+### 🚀 About Me
+I'm a passionate Computer Science Engineering student at **Amrita Vishwa Vidyapeetham, Coimbatore**, currently in my 3rd year. My core interest lies in the fascinating world of **Artificial Intelligence (AI) and Machine Learning (ML)**, where I constantly push myself to learn and explore cutting-edge technologies. Alongside AI/ML, I have a strong foundation and experience in **Web Development**. My journey as a tech enthusiast has allowed me to grow into a versatile problem solver with a focus on innovation.
 
-I focus on building production-quality software while continuously improving my problem-solving and system design skills.
+I love building AI-powered applications, experimenting with algorithms, and creating seamless user experiences in web development. The combination of technology and creativity is where I thrive, and I am always looking for new challenges to tackle.
 
 ---
 
-### Socials
-[LinkedIn](https://linkedin.com/in/shivam-kharat)
+### 🌱 Currently Learning
+- Deep Learning & Reinforcement Learning
+- Cloud Computing & DevOps
+- AI-driven Web Applications
+- Blockchain & Cryptography
+
+> *"Technology is best when it brings people together."* - Matt Mullenweg
 
 ---
 
-### Tech Stack
-
-#### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📚 What I Do
+- **Develop AI solutions** for real-world problems using advanced Machine Learning techniques.
+- **Build full-stack web applications** that are scalable, efficient, and responsive.
+- **Contribute to open-source projects** and engage with the community to share knowledge.
 
 ---
 
-### GitHub Stats
+### 🌟 Achievements
+- 🏆 Developed an **AI-powered image classifier** using TensorFlow that outperforms traditional models.
+- 🌍 Contributed to several **open-source AI/ML repositories**.
+- 🖥 Built an **e-commerce web application** with React and Node.js, integrating AI-powered recommendations.
+
+---
+
+### 🛠 Tech Stack
+
+#### 🚀 Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+#### 🌐 Web Development
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+#### 🤖 AI/ML & Data Science
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+#### 🛠 Other Tools
+- ![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamkharat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
